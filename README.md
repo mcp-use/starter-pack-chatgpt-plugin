@@ -4,6 +4,8 @@ Starter templates for the [Make Something Agents Want Hackathon](https://events.
 
 Little Bookshop, a complete ChatGPT app built on ChatGPT Plugin Extensions. It has global and thread launchers, native settings, deep links, a shared demo cart, and "Add to chat" buttons that hand the model a book cover or reading sample. Swap the fictional catalog for your own data. [BOOKSHOP.md](BOOKSHOP.md) maps every feature to the file that implements it.
 
+https://github.com/user-attachments/assets/6c77fae2-4e45-47f0-ac7d-f0b580956947
+
 YC's motto has always been "make something people want." This weekend the user is an agent. Each starter pack is an MCP server built with [mcp-use](https://github.com/mcp-use/mcp-use), and ready to run, test in the Inspector, and deploy to [Manufact](https://manufact.com).
 
 > [!TIP]
