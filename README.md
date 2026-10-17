@@ -1,3 +1,10 @@
+## Try the live demo
+
+This starter pack is deployed on Manufact:
+
+- [Live MCP endpoint](https://starter-pack-chatgpt-plugin.run.mcp-use.com/mcp): add this URL to ChatGPT, Claude, or another MCP client.
+- [Open in the Inspector](https://inspector.manufact.com/inspector?autoConnect=https%3A%2F%2Fstarter-pack-chatgpt-plugin.run.mcp-use.com%2Fmcp): automatically connect to the deployed server and try it out.
+
 # mcp-use ChatGPT Plugin Extension Starter Pack
 
 Starter templates for the [Make Something Agents Want Hackathon](https://events.ycombinator.com/MakeSomethingAgentsWant) at Y Combinator HQ in San Francisco, October 17–18, 2026.
@@ -19,13 +26,6 @@ YC's motto has always been "make something people want." This weekend the user i
 | **MCP Apps** | An MCP server with a React view that renders inside ChatGPT, Claude, and other MCP Apps clients. | [mcp-use/starter-pack-mcp-apps](https://github.com/mcp-use/starter-pack-mcp-apps) |
 
 Click **Use this template** on any starter pack to create your own copy.
-
-## Try the live demo
-
-This starter pack is deployed on Manufact:
-
-- [Live MCP endpoint](https://starter-pack-chatgpt-plugin.run.mcp-use.com/mcp): add this URL to ChatGPT, Claude, or another MCP client.
-- [Open in the Inspector](https://inspector.manufact.com/inspector?autoConnect=https%3A%2F%2Fstarter-pack-chatgpt-plugin.run.mcp-use.com%2Fmcp): automatically connect to the deployed server and try it out.
 
 ## Get started
 
